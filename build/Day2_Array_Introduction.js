@@ -60,12 +60,12 @@
 // };
 // console.log(student6)
 // Array:
-// // Program 7:
-let flowers = ["Orchid", "Jasmine", "Lily", "Rose", "Gypsy"];
-let rollNo = [23, 45, 6, 7, 54];
-console.log(flowers);
-console.log(rollNo);
-let marksA = [80, 85, 90];
-console.log(marksA);
-marksA.push(95);
-console.log(marksA);
+// // // Program 7:
+// let flowers: string[] = ["Orchid", "Jasmine", "Lily", "Rose", "Gypsy"];
+// let rollNo: number[] = [23, 45, 6, 7, 54];
+// console.log(flowers)
+// console.log(rollNo)
+// let marksA : [a:number, b:number,c:number] = [80,85,90]
+// console.log(marksA)
+// marksA.push(95)
+// console.log(marksA)
